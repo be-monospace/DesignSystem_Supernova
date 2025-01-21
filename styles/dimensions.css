@@ -20,7 +20,9 @@
   --dimensionSpacing32: 32px;
   --dimensionSpacing36: 36px;
   --dimensionSpacing40: 40px;
+  --dimensionSpacingSemanticStackGap: 1px;
   --dimensionOpacityDisabled: 50px;
   --dimensionShadowFocusRingWidth: 3px;
-  --dimensionSpacingSemanticStackGap: 1px;
+  --dimensionPaletteMagentaNumber: 0px;
+  --dimensionExample: 64px;
 }
