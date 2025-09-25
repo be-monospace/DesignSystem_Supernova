@@ -1,0 +1,19 @@
+
+:root {
+    --gradientGradientStory: linear-gradient(
+          225deg,
+          #7638fa 0%,   
+          #d300c5 17%,   
+          #ff0069 36%,   
+          #ff7a00 62.5%,   
+          #ffd600 83.5%  
+        )
+        ;    
+    --gradientGradientScrim: linear-gradient(
+          180.08deg,
+          #000000 0%,   
+          #00000066 47.1%,   
+          #00000000 100%  
+        )
+        ;    
+}
