@@ -4,6 +4,6 @@
  */
 
 :root {
-  --typography-lg-test: var(--string-naming-is-hard) var(--dimension-example) "Instrument Sans";
-  --typography-lg-solution-test: var(--string-naming-is-hard) var(--dimension-example) "Instrument Sans";
+  --typography-lg-test: var(--font-weight-naming-is-hard) var(--font-size-example) "Instrument Sans";
+  --typography-lg-solution-test: var(--font-weight-naming-is-hard) var(--font-size-example) "Instrument Sans";
 }

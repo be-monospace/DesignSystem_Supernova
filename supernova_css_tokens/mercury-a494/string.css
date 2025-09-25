@@ -4,8 +4,6 @@
  */
 
 .theme-mercury-a494 {
-  --string-palette-green-string: "String value";
   --string-palette-magenta-string: "String value";
-  --string-naming-is-hard: "400 italic";
   --string: "String value";
 }

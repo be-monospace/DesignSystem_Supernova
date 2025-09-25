@@ -4,6 +4,10 @@
  */
 
 .theme-jupiter-93c4 {
-  --typography-lg-test: var(--font-weight-naming-is-hard) var(--font-size-example) "Instrument Sans";
-  --typography-lg-solution-test: var(--font-weight-naming-is-hard) var(--font-size-example) "Instrument Sans";
+  --border-radius-none: 0px;
+  --border-radius-sm: 4px;
+  --border-radius-md: 8px;
+  --border-radius-lg: 16px;
+  --border-radius-full: 999px;
+  --border-radius-semantic-radius-primary: var(--border-radius-sm);
 }
