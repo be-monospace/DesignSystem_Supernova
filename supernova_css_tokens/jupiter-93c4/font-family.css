@@ -3,7 +3,6 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --string-palette-magenta-string: "String value";
-  --string: "String value";
+.theme-jupiter-93c4 {
+  --font-family-palette-green-string: "String value";
 }

@@ -5,7 +5,15 @@
 
 :root {
   --dimension-palette-magenta-number: 0px;
-  --dimension-example: 100px;
   --dimension-number: 20px;
   --dimension-number-2: 0px;
+  --dimension-sizing-size-0: 0px;
+  --dimension-sizing-size-2: 2px;
+  --dimension-sizing-size-4: 4px;
+  --dimension-sizing-size-8: 8px;
+  --dimension-sizing-size-12: 12px;
+  --dimension-sizing-size-16: 16px;
+  --dimension-sizing-size-24: 24px;
+  --dimension-sizing-size-32: 32px;
+  --dimension-button-radius: var(--border-radius-semantic-radius-primary);
 }
